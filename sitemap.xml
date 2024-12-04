@@ -8,8 +8,139 @@
 
 
 <url>
-  <loc>https://wangwc1996.github.io/Weicheng.github.io/</loc>
-  <lastmod>2023-02-11T23:29:29+00:00</lastmod>
+  <loc>https://mxieaa.github.io/</loc>
+  <lastmod>2024-12-04T08:12:09+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://mxieaa.github.io/paper/SIGMOD25.pdf</loc>
+  <lastmod>2024-12-04T08:12:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mxieaa.github.io/paper/KDD24.pdf</loc>
+  <lastmod>2024-12-04T08:12:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mxieaa.github.io/paper/VLDB24-Rock.pdf</loc>
+  <lastmod>2024-12-04T08:12:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mxieaa.github.io/paper/VLDB24-MedHunter.pdf</loc>
+  <lastmod>2024-12-04T08:12:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mxieaa.github.io/paper/VLDB24.pdf</loc>
+  <lastmod>2024-12-04T08:12:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mxieaa.github.io/paper/SIGMOD24.pdf</loc>
+  <lastmod>2024-12-04T08:12:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mxieaa.github.io/paper/SIGMOD24-rock.pdf</loc>
+  <lastmod>2024-12-04T08:12:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mxieaa.github.io/paper/ICDE24-regret.pdf</loc>
+  <lastmod>2024-12-04T08:12:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mxieaa.github.io/paper/ICDE24-fair.pdf</loc>
+  <lastmod>2024-12-04T08:12:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mxieaa.github.io/paper/ICDE24-demo.pdf</loc>
+  <lastmod>2024-12-04T08:12:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mxieaa.github.io/paper/VLDB23.pdf</loc>
+  <lastmod>2024-12-04T08:12:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mxieaa.github.io/paper/SIGMOD23.pdf</loc>
+  <lastmod>2024-12-04T08:12:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mxieaa.github.io/paper/ICDE23.pdf</loc>
+  <lastmod>2024-12-04T08:12:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mxieaa.github.io/paper/CIKM2022.pdf</loc>
+  <lastmod>2024-12-04T08:12:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mxieaa.github.io/paper/APWeb2022.pdf</loc>
+  <lastmod>2024-12-04T08:12:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mxieaa.github.io/paper/SIGMOD22.pdf</loc>
+  <lastmod>2024-12-04T08:12:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mxieaa.github.io/paper/SIGMOD21.pdf</loc>
+  <lastmod>2024-12-04T08:12:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mxieaa.github.io/paper/ICDE20.pdf</loc>
+  <lastmod>2024-12-04T08:12:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mxieaa.github.io/paper/ICDE20-RWR.pdf</loc>
+  <lastmod>2024-12-04T08:12:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mxieaa.github.io/paper/VLDBJ.pdf</loc>
+  <lastmod>2024-12-04T08:12:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mxieaa.github.io/paper/IJCAI.pdf</loc>
+  <lastmod>2024-12-04T08:12:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mxieaa.github.io/paper/SIGMOD19.pdf</loc>
+  <lastmod>2024-12-04T08:12:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mxieaa.github.io/paper/SIGMOD19b.pdf</loc>
+  <lastmod>2024-12-04T08:12:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mxieaa.github.io/paper/SIGMOD18.pdf</loc>
+  <lastmod>2024-12-04T08:12:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mxieaa.github.io/paper/SIGMOD14a.pdf</loc>
+  <lastmod>2024-12-04T08:12:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mxieaa.github.io/paper/SIGMOD14b.pdf</loc>
+  <lastmod>2024-12-04T08:12:09+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 
 
